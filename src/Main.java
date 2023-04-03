@@ -11,5 +11,10 @@ public class Main {
         dog.age="3mo";
         dog.price="10k";
 
+        Bird bird=new Bird();
+        bird.type="hummingbird";
+        bird.color="greenred";
+        bird.price="10";
+
     }
 }
